@@ -24,6 +24,7 @@ body {
     margin-bottom: 2rem;
     padding:  0.1rem 2rem;
     border-radius: 1rem;
+    border: 3px solid black;
 
 }
 
@@ -31,6 +32,7 @@ body {
     background-color: white;
     padding: 2rem 2rem;
     border-radius: 1rem;
+    border: 3px solid black;
 }
 
 h1 {
@@ -74,6 +76,7 @@ button {
     background-color: white;
     padding: .8rem 2rem;
     border-radius: 1rem;
+    border: 3px solid black;
 
     display: flex;
     gap: 0.5rem;

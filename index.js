@@ -16,4 +16,5 @@ function save() {
 
   count = 0;
   countEl.textContent = 0;
+  
 }
